@@ -1,7 +1,7 @@
 # Guess the Dice Game
 A game of guessing the drawn number.
 
-### About
+## About
 In this game, the user will guess a number from one to six. A dice will roll and the user's guess will be compared.
 
 #### Rules
@@ -9,3 +9,5 @@ In this game, the user will guess a number from one to six. A dice will roll and
 - the player (also the computer) tries to guess the number (also draws)
 - if he guesses right, the game ends
 - if he does not guess, the next round begins (the computer draws another number and the player tries to guess it)
+
+![image](https://user-images.githubusercontent.com/101121453/215274780-84efccaf-1dbe-4228-b749-cedaace390de.png)
