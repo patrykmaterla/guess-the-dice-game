@@ -10,4 +10,5 @@ In this game, the user will guess a number from one to six. A dice will roll and
 - if he guesses right, the game ends
 - if he does not guess, the next round begins (the computer draws another number and the player tries to guess it)
 
-![image](https://user-images.githubusercontent.com/101121453/215274780-84efccaf-1dbe-4228-b749-cedaace390de.png)
+![image](https://user-images.githubusercontent.com/101121453/215274830-c045d701-8d56-4728-8965-1f4dfa4385c1.png)
+
