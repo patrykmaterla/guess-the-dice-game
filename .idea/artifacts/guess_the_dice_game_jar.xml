@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="guess-the-dice-game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/guess_the_dice_game_jar</output-path>
+    <root id="archive" name="guess-the-dice-game.jar">
+      <element id="module-output" name="guess-the-dice-game" />
+    </root>
+  </artifact>
+</component>
